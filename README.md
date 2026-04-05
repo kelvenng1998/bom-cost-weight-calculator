@@ -25,8 +25,8 @@ It was built to reduce manual engineering workload and improve consistency in ma
 
 ## 🧱 Project Structure
 
-` ` `
-.
+
+` ` `.
 ├─ main.py
 ├─ sample_data/
 │ ├─ input.xlsx # Defines BOM files to process
