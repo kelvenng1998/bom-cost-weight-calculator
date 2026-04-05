@@ -37,7 +37,7 @@ It was built to reduce manual engineering workload and improve consistency in ma
 │       └── sample_part_b.xlsx
 │
 └── output/                # Generated results folder
-
+```
 
 ---
 
