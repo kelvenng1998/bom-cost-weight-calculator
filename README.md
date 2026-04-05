@@ -25,6 +25,7 @@ It was built to reduce manual engineering workload and improve consistency in ma
 
 ## 🧱 Project Structure
 
+` ` `
 .
 ├─ main.py
 ├─ sample_data/
@@ -35,7 +36,7 @@ It was built to reduce manual engineering workload and improve consistency in ma
 │ └─ sample_part_b.xlsx
 ├─ output/ # Generated results
 ├─ requirements.txt
-
+` ` `
 
 ---
 
@@ -81,10 +82,14 @@ This tool automates the process and can significantly reduce workload while impr
 
 ---
 
+## 📈 Impact
+
+This tool automates BOM processing workflows and can significantly reduce manual engineering effort, improve consistency, and minimize material waste.
+
 ## ⚠️ Notes
 
 - All data in this repository is for demonstration purposes only
-- No company-specific or confidential data is included
+- Built to replace repetitive manual BOM calculations with an automated, scalable solution.
 
 ---
 
@@ -99,4 +104,4 @@ This tool automates the process and can significantly reduce workload while impr
 
 ## 👤 Author
 
-Kelven Ng  
+Kel Ven Ng  
