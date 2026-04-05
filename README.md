@@ -25,7 +25,7 @@ It was built to reduce manual engineering workload and improve consistency in ma
 
 ## 🧱 Project Structure
 
-
+```
 ├── main.py                # Main script to process BOMs
 ├── requirements.txt       # List dependencies (pandas, openpyxl)
 │
