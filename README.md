@@ -26,17 +26,18 @@ It was built to reduce manual engineering workload and improve consistency in ma
 ## 🧱 Project Structure
 
 
-` ` `.
-├─ main.py
-├─ sample_data/
-│ ├─ input.xlsx # Defines BOM files to process
-│ ├─ raw_material_data.xlsx # Material database
-│ └─ database/
-│ ├─ sample_part_a.xlsx # Example BOM file
-│ └─ sample_part_b.xlsx
-├─ output/ # Generated results
-├─ requirements.txt
-` ` `
+├── main.py                # Main script to process BOMs
+├── requirements.txt       # List dependencies (pandas, openpyxl)
+│
+├── sample_data/           # Input data folder
+│   ├── input.xlsx         # Defines BOM files to process
+│   ├── raw_material_data.xlsx # Material database
+│   └── database/          # Individual BOM files
+│       ├── sample_part_a.xlsx
+│       └── sample_part_b.xlsx
+│
+└── output/                # Generated results folder
+
 
 ---
 
